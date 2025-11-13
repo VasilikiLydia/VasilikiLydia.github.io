@@ -1,6 +1,8 @@
+.Myphoto {
+	width: 45% ;
+}
 body {
   background-color: #52B65C;
-  }
   /*
   background-color: rgba(135, 206, 250, 0.5); 
   background-color: lightblue;
@@ -8,6 +10,8 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  */
+}
 .Myphoto2 {
 	width: 50% ;
 	width: #ff914d ;
@@ -23,16 +27,3 @@ h1 {
 		text-decoration-style: wavy
 		color: #ff914d ;
 }
-h1 {
-	color: #9F2B68;
-}
-.ok {
-	color: #800020;
-}
-img{
-	width: 25%;
-}
-  .Myphoto {
-	width: 45% ;
-	}
-  */
